@@ -10,7 +10,10 @@
   "author": "zentax",
   "license": "ISC",
   "dependencies": {
+    "@discordjs/rest": "^1.5.0",
     "ascii-table": "^0.0.9",
+    "color": "^4.2.3",
+    "colors": "^1.4.0",
     "discord.js": "^14.7.1"
   }
 }
